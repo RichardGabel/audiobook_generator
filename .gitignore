@@ -1,0 +1,20 @@
+# Frontend
+audiobook-app/.next/
+audiobook-app/node_modules/
+audiobook-app/.env.local
+audiobook-app/.env
+
+# Backend
+audiobook-processor/venv/
+audiobook-processor/__pycache__/
+audiobook-processor/temp_*
+audiobook-processor/.env
+audiobook-processor/*.wav
+audiobook-processor/*.mp3
+audiobook-processor/*.pdf
+audiobook-processor/.ipynb_checkpoints/
+audiobook-processor/.vscode/
+
+# System Files
+.DS_Store
+Thumbs.db
